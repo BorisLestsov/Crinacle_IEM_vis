@@ -1,0 +1,280 @@
+S=	64 Audio A/U12t	2000	Mild U-shape	Amazing bass (for a BA), top-tier resolution and detail-oriented signature.	12BA	Music Sanctuary demo unit	
+S=	Audeze LCD-i4 (Cipher)	2500	Harman-neutral	Low distortion, high resolution, excellent dynamics and expectedly open soundstage.	Planar	Stereo SG demo unit	
+S=	qdc 8SL/Gemini/Anole VX	1410	Neutral with bass boost	Reference tuning with good tonality and top-level resolution. Similar tunings across top tier models.	8/10BA	Music Sanctuary demo unit	
+S=	Shure KSE1200	2000	Bright DF-neutral	Easily at the top in terms of resolution and definition. Necessitates foam tips for proper tonal balance.	Electrostatic	A2A Melbourne demo unit	
+S=	Sony IER-Z1R	2000	Mild V-shape	Highly defined sound, realistic sub-bass focus and spacious imaging capabilities.	1BA 2DD	Personal unit	
+S=	Vision Ears VE8	2700	Warm neutral	Extremely coherent signature with a pleasing tuning and high technicalities.	8BA	E1 demo unit	
+S-	64 Audio Tia Trio	2300	Warm	A more correct sounding version of the Fourte with slight cutbacks in staging and sheer resolution.	2BA 1DD	E1 demo unit	
+S-	64 Audio A/U18 Tzar	3000	Warm V-shape	A rather simple and "mainstream" tuning refined to an extremely high level.	18BA	Music Sanctuary demo unit	
+S-	Campfire Andromeda (S)	1100	Warm with upper treble sparkle	Highly coherent, easy-to-love tuning and spacious headstage	5BA	Zeppelin & Co demo unit	
+S-	InEar Prophile-8	1600	Neutral	Very "studio" like sound, heavy priority on technicalities	8BA	Music Sanctuary demo unit	
+S-	Jomo Flamenco	2200	Warm neutral	Tuned to be more pleasing and tonally accurate compared to the old Flamenco at the cost of sheer detail.	11BA	Showfloor demo unit	
+S-	Jomo Samba	1900	V-shaped	Lively and engaging with big clarity and detail, perhaps too much for some	8BA	Music Sanctuary demo unit	
+S-	Jomo Trinity SS	2800	Upper mid focused	Highly detailed, well separated imaging though severely lacking in treble extension.	2EST 4BA 1DD	Showfloor demo unit	
+S-	Sony MDR-EX1000		Bright DF-neutral	Outstanding imaging and detail retrieval though can be intense to listen to.	DD	Third party unit	
+S-	Ultimate Ears UE18+ Pro Gen 2		Warm neutral	Somewhat reference tuning with emphasis on tonal accuracy and naturalness	6BA	Personal unit	
+S-	Unique Melody Legacy	1650	Neutral with bass boost	Beautifully tuned yet highly technically proficient	12BA	Stereo SG demo unit	
+S-	Vision Ears Erlkonig	4800	Variable	Good tonality, high resolution and an overall decent all-rounder.	13BA	Third party unit	
+A+	64 Audio Tia Fourte	3600	W-shaped	Unique sound; high clarity and bass response with immensely wide staging, held back by a wonky tonality.	3BA 1DD	E1 demo unit	
+A+	AAW W900	1500	Warm neutral	Natural bass, outstanding imaging with slightly nasally timbre.	8BA 1DD	Personal unit	
+A+	A&K T8iE		Neutral with bass boost	Hard-to-dislike tuning with excellent clarity and resolution	DD	Zeppelin & Co demo unit	
+A+	Beyerdynamic Xelento	1000	V-shaped	Like the T8iE, with a little more treble	DD	Zeppelin & Co demo unit	
+A+	Empire Ears Legend X	2300	V-shaped	High resolution hybrid flawed only by lack of control in the bass regions.	5BA 2DD	Zeppelin & Co demo unit	
+A+	Empire Ears Zeus-XR ADEL	2730	Bright neutral	Top tier detail and resolution with poor tone and timbre reproduction.	14BA	Music Sanctuary demo unit	
+A+	FitEar MH334SR	2000	Warm neutral	A MH334 with more treble extension and more opened imaging.	4BA	Third party unit	
+A+	Hyla CE-5	915	U/W-shaped	Probably the best bass response I've ever heard. Thin-ish midrange that sounds unnatural on certain instruments.	1Piezo 2BA 1DD	Zeppelin & Co demo unit	
+A+	Hyla TE-5B	1300	U/W-shaped	Similar to the CE-5 though ever-so-slightly thinner in the midrange.	1Piezo 2BA 1DD	Zeppelin & Co demo unit	
+A+	Jomo Trinity Brass	2800	Warm	The warmer of the Trinity models, sacrificing technical ability for a more pleasing and smoother tone.	2EST 4BA 1DD	Showfloor demo unit	
+A+	Kumitate KL-Sirius	815	Neutral	Excellent technical ability, well tuned with a dash of Japanese flavour.	4BA	Third party custom	
+A+	Noble Khan	2300	U-shaped	Clean yet lean, solid low-end rumble but treble get splashy. Technical but lacking naturalness for top performance.	1Piezo 4BA 1DD	Third party unit	
+A+	PEARS SH3	1100	Neutral	Great detail pickup and solid all-rounder, perhaps a little strident.	3BA	Third party unit	
+A+	Ultimate Ears Reference Monitor (UERM)		Neutral	The benchmark of an era, dead-flat with an upper treble boost	3BA	Personal custom	
+A+	Sony IER-M9	1500	Warm neutral	Neutral tonality, highly coherent and decent detail pickup.	5BA	Showfloor demo unit	
+A+	StereoPravda SB7	2500	Bright DF-neutral	Technically proficient but marred by a sharp timbre. Interesting concept.	7BA	Zeppelin & Co demo unit	
+A=	64 Audio N8	1700	Bassy	Sub-bass focus, rich and smooth yet relatively neutral in tone.	8BA 1DD	Personal custom	
+A=	Audeze iSine 20 (Cipher)	600	Harman-neutral	DSP corrects the glaring tonality issues and brings out the iSine driver's full potential.	Planar	Stereo SG demo unit	
+A=	Audeze LCDi4	2500	"Balanced"	Low distortion, high resolution and excellent clarity marred by poor tuning which destroys timbre.	Planar	Stereo SG demo unit	
+A=	Campfire Solaris	1500	"Balanced"	Coherent and well balanced hybrid though with slight midrange hollowness.	3BA 1DD	E1 demo unit	
+A=	Dita Dream	1800	V-shaped	Excellent resolution and detail let down by its metallic tonality and thin midrange	DD	Zeppelin & Co demo unit	
+A=	Elysian Terminator	2500	Warm V-shape	Well rounded smooth signature that doesn't offend.	8BA	Showfloor demo unit	
+A=	Empire Ears Phantom	1800	Warm	Heavy, rich and decadent, great for male vocals and bassy instruments.	5BA	Zeppelin & Co demo unit	
+A=	FitEar MH334	1900	Warm	Perfect for female vocals, but otherwise quite coloured	4BA	Third party custom	
+A=	FitEar TG334	1400	Dark	Like the MH334 with quite a bit less treble	4BA	Personal unit	
+A=	Hidition NT6	1050	DF-neutral	If Etymotic made a multi-BA IEM, this would be the closest to that dream	6BA	Null Audio demo unit	
+A=	Hidition NT8	1850	Neutral	Coloured neutral kind of sound that works better with Asian genres.	8BA	Zeppelin & Co demo unit	
+A=	InEar SD5	1100	Warm V-shape	Excels in timbre reproduction and has an overall pleasant signature.	5BA	Music Sanctuary demo unit	
+A=	JH Roxanne	1745	Warm	Rich and smooth, perfect for male vocals	12BA	A2A Melbourne demo unit	
+A=	Jomo Quatre	1500	V-shaped	Nicely tuned hybrid that serves as a good all-rounder.	3BA 1DD	Euphoria Audio demo unit	
+A=	Lime Ears Model X	1000	Neutral/Warm	Technically capable IEM that goes from decently neutral to warm and smooth in a pinch.	4BA	Music Sanctuary demo unit	
+A=	Lime Ears Aether	1350	Neutral with bass boost	Excellent clarity and tone but marred slightly by slightly lackluster resolution	5BA	Music Sanctuary demo unit	
+A=	NCM Bella	1050	U-shaped	Powerful bass combined with clean sounding mids, though perhaps a tad aggressive at times.	8BA 1DD	Review unit	
+A=	Noble K10		Neutral with bass boost	Very safe tuning, almost to the point of boredom. Does nothing wrong but nothing right either	10BA	Stereo SG demo unit	
+A=	Noble K10 Encore	1850	Neutral	Reference oriented sound focused on technicalities	10BA	Stereo SG demo unit	
+A=	Noble Katana	1850	Neutral with laid back treble	Like the K10, except with less bass	9BA	Stereo SG demo unit	
+A=	Oriolus MK2	1100	Warm	Lively yet non-fatiguing hybrid experience	3BA 1DD	Zeppelin & Co demo unit	
+A=	qdc 4SS	700	Neutral	High clarity, high resolution reference-type monitor with spot-on tone.	4BA	Music Sanctuary demo unit	
+A=	qdc 5SH	900	V-shaped	Fun, lively signature that retains high levels of performance.	5BA	Music Sanctuary demo unit	
+A=	Sony MDR-EX800ST/MDR7550	350	Bright DF-neutral	A more forgiving, warmer version of the EX1000.	DD	Third party unit	
+A=	Sony Justear XJE-MH2 "Club Sound"	2150	Warm DF-neutral	Nice, pleasant signature that is reminiscent of a more textured HS1551.	1BA 1DD	Third party custom	
+A=	Soranik Ion	1100	Warm	Clearly inspired by the 334, follows the same strengths in female vocals	5BA	Music Sanctuary demo unit	
+A=	Stealthsonics U9 JDM	1100	Neutral with bass boost	Does away with the timbre issues of the standard U9.	8BA 1DD	Showfloor demo unit	
+A=	Ultimate Ears Reference Remastered (UERR)	1000	Neutral with laid-back treble	Warm with good tonality. Good all-rounder albeit definitely not a reference signature.	3BA	Music Sanctuary demo unit	
+A=	Ultimate Ears UE18+ Pro Gen 3	1500	"Balanced"	Perceived more neutrally compared to the Gen 2; less emotional, more boring.	6BA	Music Sanctuary demo unit	
+A=	Unique Melody Maestro V2	2000	"Balanced"	It's... there. Hard to find words for this one	12BA	Stereo SG demo unit	
+A=	Westone ES60	1300	Neutral with laid-back treble	Great timbre and well-tuned, held back by its resolution	6BA	A2A Melbourne demo unit	
+A=	Westone W80	1500	Warm neutral	Nicely balanced, intimate and slightly dry. Perhaps the least Westone-sounding Westone.	8BA	A2A Melbourne demo unit	
+A-	64 Audio A8	1400	Bassy	Bass monster. Bass, bass and more bass	8BA	Music Sanctuary demo unit	
+A-	AAW W500	1100	Warm with upper midrange boost	Energetic mids and highly natural bass	4BA 1DD	Jaben SG demo unit	
+A-	Acoustune HS1650	650	V-shaped	Well textured and energetic with a sub-bass focus.	DD	Zeppelin & Co demo unit	
+A-	Campfire Atlas	1300	Bassy	Gobs of bass with added treble sparkle that prevents complete congestion and muddiness.	DD	Zeppelin & Co demo unit	
+A-	Custom Art Harmony 8.2	1300	Warm	Smooth and easy signature. No fatigue whatsoever. The definition of a lounging IEM.	8BA	Personal unit	
+A-	Empire Ears Spartan-IV ADEL	930	"Balanced"	Good clarity, good staging, good resolution	4BA	Music Sanctuary demo unit	
+A-	Empire Ears EVR	800	Neutral	A nicely tuned flat-ish signature with good technical ability all around.	3BA	Zeppelin & Co demo unit	
+A-	Empire Ears Vantage	1400	V-shaped	A Legend-X-mini, essentially. Nice alternative on a budget.	1BA 2DD	Zeppelin & Co demo unit	
+A-	Etymotic ER4XR	350	DF-neutral	A more mainstream tuning of the ER4S/SR with slightly boosted bass.	BA	Zeppelin & Co demo unit	
+A-	FitEar Parterre	1200	Warm	Intimate, smooth and laidback sound	2BA?	Jaben SG demo unit	
+A-	Hidition NT6 Pro	1100	Neutral with bass boost	A V-shaped version of the NT6. The change in tuning kills the technical ability slightly	6BA	Null Audio demo unit	
+A-	Hidition Waltz		Harman-neutral	Neutral-fun signature that works both as a reference monitor and a rock-out IEM.	3BA	Zeppelin & Co demo unit	
+A-	Hyla TE-5T	1300	Upper mid focused	Very Japanese-sounding with a massive upper harmonic focus, too much for many genres.	1Piezo 2BA 1DD	Zeppelin & Co demo unit	
+A-	Massdrop Plus	300	DF-neutral with bass boost	Reference-targeted sound with excellent clarity and detail, with a slightly more fun tuning.	3BA	Review unit	
+A-	Moondrop Blessing	400	Harman-neutral	All rounder that comes the closest to the Harman Target.	4BA 1DD	Review unit	
+A-	NocturnaL Atlantis	600	Neutral	Reference signature with immense clarity and energy.	4BA	Treoo demo unit	
+A-	Sony IER-M7	800	Warm neutral	Balanced across the board, though doesn't seem to excel in any particular area.	4BA	Showfloor demo unit	
+B+	Acoustune HS1551	500	Warm V-shape	Warm and smooth tonality with a pleasing tuning not many would hate.	DD	Zeppelin & Co demo unit	
+B+	Etymotic ER4PT	300	Warm neutral	Slightly rolled off treble with good detail and resolution, though imaging is too two-dimensional.	BA	Personal unit	
+B+	Campfire Jupiter	800	"Balanced"	Great clarity and staging though with odd upper midrange.	4BA	Connect IT demo unit	
+B+	Custom Art FIBAE3	625	Mid-centric	A clarity-focused IEM. Weak in staging, perhaps too thin on the note weight but ultimately does its kind of sound without hiccups.	3BA	Review unit	
+B+	Dita Fidelity	1300	V-shaped	The more technical and less natural sounding of the Dita twins.	DD	Zeppelin & Co demo unit	
+B+	Earsonics EM10	2300	Neutral with bass boost	Oddly low dynamics makes this sound rather dead and lifeless.	10BA	Music Sanctuary demo unit	
+B+	Empire Ears Nemesis	1600	V-shaped	A lot more treble compared to the Vantage.	3BA 2DD	Zeppelin & Co demo unit	
+B+	FitEar F/A111	780	Warm neutral	A laid-back take on reference with Suyama's FitEar colouration mixed in	BA	Jaben SG demo unit	
+B+	FitEar Private 333	1500	Bright	Very exciting and sharp signature. Almost seems like it's made for higher-pitched vocals.	3BA	Jaben SG demo unit	
+B+	HUM Reference	1300	DF-neutral	Basically sounds like a shallow-fit ER4S.	BA	Zeppelin & Co demo unit	
+B+	HUM Pristine Reference	1400	Warm	Good detail pickup and generally inoffensive. Much better than the universal.	2BA	Third party custom	
+B+	iBasso IT04	500	U-shaped	A nice improvement over the IT03 though midrange hollowness still exists.	3BA 1DD	E1 demo unit	
+B+	Oriolus Mellianus	2400	Mild V-shape	Thin and sterile signature that isn't the most natural, but still technically proficient.	10BA	Third party unit	
+B+	Rhapsodio Galaxy	1450	V-shaped	Lively and engaging but avoiding fatigue still. Rare combo	DD	Zeppelin & Co demo unit	
+B+	Rhapsodio Solar	1550	Mild V-shape	Good bass, good treble, good midrange... an all-rounder, essentially	10BA	Zeppelin & Co demo unit	
+B+	Sennheiser IE800	800	Mild V-shape	Good bass with shimmery treble. Decent tonality.	DD	Jaben SG demo unit	
+B+	Sony XBA-N3	300	Neutral with bass boost	Exceptional tonal balance only limited by its slightly smoothed over definition	1BA 1DD	ConnectIT demo unit	
+B+	Unique Melody Martian	700	Neutral with bass boost	Well-tuned hybrid with excellent bass response and smooth midrange.	2BA 2DD	Stereo SG demo unit	
+B=	AAW W350		Warm	Warm, smooth and easy to listen to.	3BA	Stereo SG demo unit	
+B=	Acoustune HS1501	500	Warm V-shape	A more textured, bassier and more energetic version of the HS1551.	DD	Zeppelin & Co demo unit	
+B=	Acoustune HS1670	800	V-shaped	Metallic and shrill timbre makes this hard to enjoy.	DD	Zeppelin & Co demo unit	
+B=	ACS Encore	1130	Neutral	Good all-rounder. No slouch in the technicalities.	3BA	Jaben SG demo unit	
+B=	AKG N5005	1000	Neutral with bass boost	Amazing bass control only let down by plastic timbre.	4BA 1DD	Zeppelin & Co demo unit	
+B=	ARC Pollux	300	Neutral	Well-tuned neutral single-BA IEM.	BA	Music Sanctuary demo unit	
+B=	Audio Technica ATH-E70	400	Neutral with bass boost	Clean and clear sound with a slight warm tilt without losing treble sparkle.	3BA	Jaben Melbourne demo unit	
+B=	Aurisonics ASG-2.0		Mild V-shape, bassy	Decent hybrid with good balance throughout the spectrum. Potential for monstrous bass.	2BA 1DD	Personal unit	
+B=	Campfire Vega	1300	V-shaped	Powerful bass, sharp treble and muffled midrange.	DD	Zeppelin & Co demo unit	
+B=	Campfire Dorado	1000	Warm	Extremely coherent albeit slightly congested. Great for intimacy lovers.	2BA 1DD	Zeppelin & Co demo unit	
+B=	Campfire Polaris	600	V-shaped	Pseudo-Japanese tuning focusing on female vocals and a very lively signature.	1BA 1DD	Zeppelin & Co demo unit	
+B=	Custom Art FIBAE Black	500	Warm neutral	Smooth, neutral-ish signature that serves as an all rounder.	1BA	Third party custom	
+B=	Dita Brass	1000	Warm V-shape	Very nice tonal characteristics with good bass, though nothing special technically.	DD	Zeppelin & Co demo unit	
+B=	Dita Fealty	1300	Mild V-shape	The more natural sounding and less technical of the Dita twins.	DD	Zeppelin & Co demo unit	
+B=	Dunu DK-3001	500	Mild V-shape	Well-tuned and coherent. Does little wrong and very easy to like.	3BA 1DD	LMUE demo unit	
+B=	Empire Ears ESR	1000	Bright V-shape	Has the technical chops but is sharp and fatiguing.	3BA	Zeppelin & Co demo unit	
+B=	Empire Ears Bravado	700	V-shaped	A basic hybrid sound with big bass and energetic treble.	1BA 1DD	Zeppelin & Co demo unit	
+B=	Fidue A91 "Sirius"	900	Mid-centric	Uniquely tuned hybrid. Not very powerful DD bass with Diffuse-Field midrange.	4BA 1DD	LMUE demo unit	
+B=	FiiO FH5	260	Neutral with bass boost	Stellar bass response and decent technical ability, not much to fault.	3BA 1DD	E1 demo unit	
+B=	FitEar EST	1300	Warm	Smooth and relaxing listen, though definition is not its strong suit.	1EST 1BA	Jaben SG demo unit	
+B=	FLC8S	350	Variable	Very good technicalities with a well-tuned signature. Filters change the sound a lot.	2BA 1DD	Personal unit	
+B=	Hifiman RE2000	2000	Mild V-shape	Lively sound with great technicalities and substandard tonality.	DD	A2A Melbourne demo unit	
+B=	Hyla Nerva X	2730	Dark	Low dynamics, rolled off and nothing that it really excels in.	10BA	Zeppelin & Co demo unit	
+B=	JH Audio JH13v2 Performance Series	1000	V-shaped	Good all rounder, slightly warmer and more coherent than the custom version	8BA	Zeppelin & Co demo unit	
+B=	Jomo Jomo4v2	750	Mild V-shape	Somewhat "reference-style" V-shaped with reduced upper treble. Very good clarity and detail.	4BA	Music Sanctuary demo unit	
+B=	Kumitate KL-REF Type-S	1350	Neutral (with bass boost)	Well tuned but unfortunately suffers from very odd timbre.	3BA 2DD	Third party unit	
+B=	Periodic Audio Be	300	Mild V-shape	Meaty with decent sparkle in the treble, whilst remaining clear and clean.	DD	Review unit	
+B=	qdc Anole V3	600	Variable	The bassier of the Anole brothers. Better timbre but worse technicalities.	3BA	Music Sanctuary demo unit	
+B=	qdc Anole V6	1100	Variable	The more mid-centric of the Anole brothers. Better technicalities but worse timbre.	6BA	Music Sanctuary demo unit	
+B=	Shozy & Neo BG	280	Bright neutral	Well balanced tuning with decent resolution, though suffers from slight timbral issues.	5BA	Zeppelin & Co demo unit	
+B=	Shure SE846	1000	Neutral with bass boost	Deep reaching bass but with an odd tonality in the rest of the spectrum.	4BA	Zeppelin & Co demo unit	
+B=	Sony MH755	8	Harman-neutral	Clean notes, proper sub-bass extension and a tonal balance beyond expectations.	DD	Personal unit	
+B=	Sony XBA-A3	480	Neutral with bass boost	Coherent hybrid with a warm-ish tilt to its tone.	2BA 1DD	Third party unit	
+B=	Sony XBA-Z5	700	"Balanced"	All-rounder. Somewhat neutral both in FR and tonality.	2BA 1DD	Showfloor demo unit	
+B=	Stealthsonics U9	1100	Neutral	An otherwise capable hybrid caught out by nasally and odd midrange.	8BA 1DD	Showfloor demo unit	
+B=	Ultimate Ears UE7 Pro	850	Warm neutral	Good clarity and detail with boosted, warm bass and controlled treble.	3BA	Zeppelin & Co demo unit	
+B=	Unique Melody MacBeth	600	U-shaped	Extremely clear but may be too thin for some.	1BA 1DD	Third party unit	
+B=	VSonic GR07X	200	Neutral	Jack of all trades. Has all the fundamentals down to a T.	DD	Personal unit	
+B=	Warbler Prelude	1100	Dark	Rolled off on both ends with a very typical single-BA sound.	BA	Third party custom	
+B-	AAW A3H Pro V2	370	Warm	Decent technicalities with well controlled bass and treble rolloff.	2BA 1DD	Personal custom	
+B-	Audeze iSine 10/20	400	Unique	Low distortion, high resolution and excellent clarity marred by poor tuning which destroys timbre.	Planar	Stereo SG demo unit	
+B-	Audio Technica ATH-IM02		Warm neutral	Well-balanced, excellent tuning and good technical ability.	2BA	Third party unit	
+B-	Audio Technica ATH-LS200	250	Neutral	Somewhat Diffuse-Field neutral with its own quirks. Good technical ability.	2BA	Stereo SG demo unit	
+B-	BGVP DM6	200	Warm V-shape	Warm tilt in tone, decent detail retrieval though definition is a little too smoothed over.	5BA	Third party unit	
+B-	Elysian Artemis	600	Warm	Thick, warm and smooth signature without complete sacrifice in technicalities.	3BA	Review unit	
+B-	Final Audio E4000	180	V-shaped	Rather standard sounding, non-offensive and neutral in tone.	DD	E1 demo unit	
+B-	Final Audio E5000	280	Warm	Less treble than the E4000 for a slightly different flavour.	DD	E1 demo unit	
+B-	ikko OH1	140	Upper mid focused	Well controlled sub-bass focus, high clarity and has an inherent "Asian" signature.	1BA 1DD	Zeppelin & Co demo unit	
+B-	InEar Stagediver SD2	450	Warm neutral	Well-balanced, excellent tuning and good technical ability. Similar to IM02.	2BA	Music Sanctuary demo unit	
+B-	Oriolus Forsteni	375	U-shaped	Great sparkle, deep-reaching DD bass and high clarity. Spacious staging.	2BA 1DD	Zeppelin & Co demo unit	
+B-	Oriveti New Primacy	300	Warm neutral	Rather balanced, almost neutral hybrid. All rounder.	2BA 1DD	Jaben Melbourne demo unit	
+B-	Rhapsodio Zombie	1800	Bassy	Not the cleanest bass and with coherency issues that shouldn't exist for an IEM of its asking price.	8BA 1DD	Review unit	
+B-	Spiral Ears SE5U	2000	"Balanced"	Out of phase, horrible tonal balance with near zero regard for treble.	5BA	Third party custom	
+B-	TFZ King Pro	170	V-shaped	Powerful yet controlled bass response, good snap in the treble, doesn't sacrifice too much in the midrange.	DD	Third party unit	
+B-	Ultimate Ears UE6 Pro	700	"Balanced"	A capable hybrid with little weaknesses.	1BA 2DD	Music Sanctuary demo unit	
+B-	Ultimate Ears UE11 Pro	1150	Bassy	Quite a bit of low-end emphasis. Overly-congested and smeared transients.	4BA	Music Sanctuary demo unit	
+B-	Ultimate Ears Live	2200	Warm	Soft, muddy, low resolution and lacks any sort of definition.	6BA 1DD	Music Sanctuary demo unit	
+B-	VSonic GR07 Classic/Bass	100	Mild V-shape	Well-balanced, well-tuned, good technicalities. The $100 benchmark since ever.	DD	LMUE demo unit	
+C+	BGVP DMG	140	Bassy	Decent tonal balance though bass response is not up to par.	4BA 1DD	Review unit	
+C+	Campfire Lyra II	700	V-shaped	Campfire's take on a V-shaped dynamic sound. Wouldn't call it exceptional.	DD	Zeppelin & Co demo unit	
+C+	Final Audio E1000	30	Neutral	Balanced tuning with good clarity and acceptable resolution. Surprising pick.	DD	Zeppelin & Co demo unit	
+C+	Final Audio E2000	45	V-shaped	Not too dissimiliar to a GR07, though lacking in that last octave of bass extension.	DD	E1 demo unit	
+C+	Final Audio E3000	55	Warm	A warmer, bassier E2000.	DD	E1 demo unit	
+C+	Final Audio Heaven II	90	Neutral-bright	Solid technical ability though might be a little too sterile at times.	BA	A2A Melbourne demo unit	
+C+	FiiO F9	100	V-shaped	Good technicalities, average timbre, perhaps a little excessive on the highs.	2BA 1DD	Review unit	
+C+	iBasso IT01S	200	V-shaped	Balanced tuning, slight lean towards brightness. Should be pleasing for most ears.	DD	Zeppelin & Co demo unit	
+C+	iBasso IT03	260	U-shaped	Excellent bass and clarity. Hollow midrange and somewhat metallic treble.	2BA 1DD	Zeppelin & Co demo unit	
+C+	Oriolus Finschi	180	Bright	Energetic and bright, overall a well built hybrid that can be strident for some ears.	2BA 1DD	E1 demo unit	
+C+	Periodic Audio Mg	100	Warm	Not the most clear or detailed but a very clean sound with good timbre.	DD	Review unit	
+C+	Rose BR5 Mk2	305	Neutral	Not a bad IEM, though BA timbre comes in strong with this one. Not the most technical but it does the job when called for it.	5BA	Third party unit	
+C+	Shozy & Neo CP	165	Warm	Reference-style tuning, decent tonal balance, solid technical ability.	3BA	LMUE demo unit	
+C+	TFZ Secret Garden	200	V-shaped	Decent bass response and peaky treble, not much to say.	2DD	LMUE demo unit	
+C+	Tin Audio T2	50	Neutral	Well-balanced tuning and an all-rounder signature that works for most.	2DD	Review unit	
+C+	Tin Audio T3	80	Mild V-shape	Somewhat generic hybrid signature, tuned well with good transient ability.	1BA 1DD	Review unit	
+C+	Ultimate Ears Triple Fi 10 "TF10"		Warm	Decent tonality and timbre. Not as detailed as the new kids on the block but has the fundamentals down.	3BA	Personal unit	
+C+	Zero Audio Carbo Tenore ZH-DX200-CT	40	V-shaped	A well-tuned V-shaped signature that maintains solid midrange and excellent clarity.	DD	Personal unit	
+C=	1Custom SA02		"Balanced"	Odd take on neutral with a coloured tonality.	2BA	Jaben SG demo unit	
+C=	AAW W100		V-shaped	Bassy and has that typical "chifi DD" sound.	DD	Jaben SG demo unit	
+C=	Alpha&Delta D6	95	Bright	Well balanced bright response. Good detail and doesn't sound odd in any place.	DD	Review unit	
+C=	Acoustune HS1503	400	V-shaped	Shrill, odd timbre and way too intense for normal listening.	DD	Zeppelin & Co demo unit	
+C=	Advanced Evo X	60	Neutral	A well-balanced Bluetooth IEM. A very nice surprise.	DD	Zeppelin & Co demo unit	
+C=	AKG N40	400	Variable	A rather typical hybrid tuned to the Harman Target. Nothing special especially for the asking price.	1BA 1DD	Zeppelin & Co demo unit	
+C=	Campfire Comet	200	Warm	Rolled-off at the top end, warm and bassy single-BA sound reminiscent of Final's offerings.	BA	Zeppelin & Co demo unit	
+C=	Campfire Nova	500	Neutral with laid-back treble	Somewhat dead-sounding with no shimmer or sparkle in the upper registers.	2BA	ConnectIT demo unit	
+C=	Creative Aurvana Trio	250	Warm	Surprising lack of BA timbre, but still rather average in technicalities.	3BA	ConnectIT demo unit	
+C=	Earsonics SM3		Warm	Non-fatiguing, relaxing listen. "Normal".	3BA	AV One demo unit	
+C=	Elysian Eros	400	Warm	Typical "dual driver" sound. Not very impressive.	2BA	Showfloor demo unit	
+C=	FiiO F5	65	V-shaped	Typical chifi V-shaped sound, nothing much to report on.	DD	E1 demo unit	
+C=	FitEar Air 2/Titan	1700	Warm V-shape	Generic hybrid sound. Doesn't really perform up to par either.	1BA 1DD	Jaben SG demo unit	
+C=	Focal Sphear	150	Mild V-shape	Good timbre, good bass and well-balanced tuning.	DD	Zeppelin & Co demo unit	
+C=	Fostex TE100	1800	Warm neutral	A little boring and dead in dynamics. Not fun but not really reference either. Average.	1BA 1DD	Zeppelin & Co demo unit	
+C=	iBasso IT01	110	V-shaped	Nothing really stands out as "excellent" to me, but it does a lot of things well and little wrong.	DD	Zeppelin & Co demo unit	
+C=	Intime Sora	45	U-shaped	Well controlled bass boost with slightly skewed tonality. Potential is there.	DD	Third party unit	
+C=	JH Billie Jean	350	V-shaped	Follows the JH house sound but otherwise nothing special.	2BA	AV One demo unit	
+C=	JH Michelle	500	Warm	Still sounds typically "JH" with a slightly V tuning, with slower transients and a non-fatiguing signature.	3BA	Zeppelin & Co demo unit	
+C=	JVC HA-FW01	380	Dark	Very heavy and very dark sounding IEM whose signature marrs technical ability slightly.	DD	Zeppelin & Co demo unit	
+C=	Kinera Odin	800	Neutral	Sounds like a rather basic tuning and a resolution not fitting of its driver count.	8BA	Zeppelin & Co demo unit	
+C=	Lear LCM-BD4.2	1030	Bright V-shape	Harsh, overly-textured and extremely fatiguing. Excellent technical ability completely shut down by tuning and timbre mismatch.	4BA 2DD	Treoo demo unit	
+C=	Massdrop x NuForce EDC3	100	Neutral	Well tuned, though not the most technical nor the most natural sounding.	3BA	Review unit	
+C=	MEE Pinnacle P1	200	Warm V-shape	Upper midrange emphasis with soft, warm bass. Nice for mainstream listening.	DD	Zeppelin & Co demo unit	
+C=	NuForce HEM1	150	Neutral	Reference tuning with tonal balance. Unfortunately limited by its technicalities.	BA	E1 demo unit	
+C=	Shanling ME100	120	V-shaped	An odd take on the typical "chifi DD" sound, rolling off the bass for extra clarity at the expense of tonality.	DD	Review unit	
+C=	Shure SE535	500	Mid-centric	Tonally dead. One-note bass. No treble worth mentioning.	3BA	Stereo SG demo unit	
+C=	Simgot EN700	100	Mid-centric	Good clarity and energetic signature.	DD	Zeppelin & Co demo unit	
+C=	Stealthsonics U2	250	V-shaped	Sharp, emphasised treble and boosted bass, sounds more mainstream than audiophile.	1BA 1DD	Showfloor demo unit	
+C=	Symphonium Audio Aurora	220	Warm neutral	Solid tuning, though average in technicalities.	2BA	Music Sanctuary demo unit	
+C=	TFZ 5S	80	V-shaped	Warm and somewhat slow in transients. Good timbre, average tuning.	DD	LMUE demo unit	
+C=	TFZ King	100	V-shaped	Better tuned than the 5S with a little extra treble which improves clarity and overall staging.	DD	LMUE demo unit	
+C=	Tin Audio T2 Pro	50	Bright neutral	A T2 tuned with less sub-bass and more treble. High clarity but may not be for everyone.	2DD	Review unit	
+C-	1More Quad Driver	200	"Balanced"	Okay-ish technical ability in a mainstream tuning. Can get congested.	3BA 1DD	Jaben Melbourne demo unit	
+C-	AAW Nebula Two	150	U-shaped	Excellent clarity and wide staging due to semi-open design. DD bass manages to shine through.	1BA 1DD	Null Audio demo unit	
+C-	Advanced Elise	30	Bassy	Boomy and heavy sounding. Smoothed over details but not the worst out there.	DD	Zeppelin & Co demo unit	
+C-	Advanced GT3 Superbass	200	"Balanced"	Acceptable resolution though the tone is off in many ways. Filters don't seem to address that issue.	DD	Personal unit	
+C-	Elysian Minerva	900	Warm V-shape	Wonky tone with blunted notes, not very revealing.	4BA	Showfloor demo unit	
+C-	FiiO F3	25	U-shaped	Well-balanced U-shaped sound that's rather atypical of a chifi dynamic IEM.	DD	E1 demo unit	
+C-	Fostex TE-02WP		Neutral-bright	Balanced and clear. Very good value.	DD	A2A Melbourne demo unit	
+C-	Heygears Anora	80	Neutral with laid-back treble	Very good tuning, well-balanced signature.	BA	LMUE demo unit	
+C-	Kinera Idun	140	V-shaped	Not a bad hybrid, considering Kinera's track record.	2BA 1DD	Third party unit	
+C-	Oriveti Basic	100	Bassy	Lots of sub-bass rumble with an energetic midrange. Roll-off for non-fatigue.	DD	Jaben Melbourne demo unit	
+C-	Sennheiser Momentum In-Ear	100	V-shaped	Fuzzy, typical V-shaped sound but nothing too egregious.	DD	Zeppelin & Co demo unit	
+C-	Stealthsonics U4	500	Warm	An odd character, simultaneously bassy and thin at the same time.	4BA	Showfloor demo unit	
+C-	Super Audio "Supermeme" 2BA+2DD	150	V-shaped	A decently tuned V-shaped hybrid with energetic upper midrange. May be intense for some.	2BA 2DD	Personal unit	
+C-	Symphonium Audio Mirage	150	Dark	Typical single-BA sound that doesn't offer anything special.	BA	Music Sanctuary demo unit	
+C-	Vive XE800	30	Mild V-shape	A mini GR07. Need I say more?	DD	Third party unit	
+C-	Whizzer A-HE03 "Kylin"	160	Warm V-shape	Odd tonality and lacklustre technical ability overall.	2BA 1DD	Review unit	
+C-	Westone 4R		Dark	Low resolution, extremely blunted and narrow imaging.	4BA	Third party unit	
+D+	1More Triple Driver	100	V-shaped	Good clarity with unfortunately thin midrange. Flat bass, not in a good way.	2BA 1DD	Stereo SG demo unit	
+D+	Advanced M5-5D	650	Bright neutral	An otherwise capable hybrid unfortunately let down by its ridiculous treble spike.	4BA 1DD	Zeppelin & Co demo unit	
+D+	Ambient Acoustics AM7	1750	Variable	Unreliable switches, mediocre technical ability and the tone is slightly off.	7BA	Zeppelin & Co demo unit	
+D+	Cozoy Trio	450	Unique	Odd tuning, doesn't sound too bad but it's overall not very impressive at all.	3BA	E1 demo unit	
+D+	Hifiman RE1000	1000	V-shaped	A strange take on a V response. Intense yet with no upper treble to speak of.	DD	A2A Melbourne demo unit	
+D+	Kinera SEED	50	"Balanced"	Lacking in bass extension and tonally skewed too much to the higher frequencies.	1BA 1DD	Third party unit	
+D+	Ultimate Ears UE5 Pro	600	Warm	Dead dynamics, overly warm and congested.	2BA	Jaben SG demo unit	
+D+	Rose Mini2	110	Warm	It's somewhat natural in timbre but lacks a lot of technical proficiency.	2BA	Third party unit	
+D=	AAW A1D	180	V-shaped	Sounds like a V-shaped dynamic. As anticlimactic as it sounds.	DD	Jaben SG demo unit	
+D=	AAW W300	660	Bright neutral	Thin and brittle midrange that easily gets harsh.	2BA 1DD	Jaben SG demo unit	
+D=	Advanced GT3	200	V-shaped	Sharp, shrill and overall unpleasant.	DD	Zeppelin & Co demo unit	
+D=	Advanced M5-1D	400	V-shaped	Typical chifi DD sound. Nothing special.	DD	Zeppelin & Co demo unit	
+D=	Ambient Acoustics AM16		"Balanced"	Sounds weird and is completely average in pure technicalities. Disappointing.	16BA	Zeppelin & Co demo unit	
+D=	Ambient Acoustics AM24		"Balanced"	See above. Perhaps even slightly worse.	24BA	Zeppelin & Co demo unit	
+D=	Astrotec Delphinus 5	500	"Balanced"	Sounds plain wrong. Instruments are nowhere close to how they should on proper gear.	5BA	Zeppelin & Co demo unit	
+D=	Audiofly AF160	430	Dark	Not just dead but almost completely devoid of treble. Double whammy.	3BA	Jaben Melbourne demo unit	
+D=	Earsonics SM64v2	500	Warm	Weirdly incoherent and disjointed. Good warmth, though.	3BA	AV One demo unit	
+D=	Eternal Melody EM-2	290	V-shaped	It just sounds "meh" to be. Nothing much to say.	2BA	Zeppelin & Co demo unit	
+D=	Fidue A71	80	Bassy	Boomy and bleeds into the mids. Not a lot of definition.	2DD	E1 demo unit	
+D=	Jomo PLB	510	Dark	Bloated, congested and oh-so-slow.	3BA	Music Sanctuary demo unit	
+D=	Jomo Haka	365	Dark	Mushy, blobby and low resolution.	BA	Euphoria Audio demo unit	
+D=	NuForce Primo 8	500	Dark	Tone is off, detailing is low, things sound wrong. Lies on a spectrum of "average" to "no".	4BA	E1 demo unit	
+D=	Rhapsodio Clipper	55	Extreme Bass	Lots and lots of bass. Slams you in the face with bass.	DD	Zeppelin & Co demo unit	
+D=	Sennheiser IE80S	350	V-shaped	Warm, bassy, congested and lacking in dynamics. Oddly sharp yet lacking in sparkle	DD	Zeppelin & Co demo unit	
+D=	Shure SE215	100	V-shaped	Sounds like a typical dynamic IEM. Slightly bloated bass and narrow staging.	DD	Jaben Melbourne demo unit	
+D=	Sound Linear Fitz 10 Flat	2200	"Balanced"	It sounds dead and boring. Nothing about it stands out at all and it doesn't even achieve the passing mark for technicalities.	10BA	E1 demo unit	
+D=	TFZ 3S	65	V-shaped	It's okay. It's a Chinese dynamic IEM, nothing special.	DD	LMUE demo unit	
+D=	Unique Melody ME1	760	Warm	Soft transients, low definition and odd timbre makes this the worst planar I've listened to.	Planar	Stereo SG demo unit	
+D-	AAW A2H-Pro V2	220	Dark	Good coherency but sub-par tuning and sluggishy slow.	1BA 1DD	Jaben SG demo unit	
+D-	AAW M40	660	"Balanced"	Very shrill and thin, completely destroying timbre. Just sounds awful.	4BA	Jaben SG demo unit	
+D-	Geek Wold GK3	20	Dark	Incoherent, imaging is all over the place and sounds like a mess.	3DD	Third party unit	
+D-	KZ ZS3	15	Dark	Something you would expect from a free earphone. It's okay.	DD	Third party unit	
+D-	KZ ZST	30	V-shaped	Decent bass. Odd timbre. Odd tuning.	1BA 1DD	Third party unit	
+D-	RHA CL750	100	Bright	Ear-piercing treble makes it hard to listen to.	DD	AV One demo unit	
+D-	TFZ 1S	40	V-shaped	A little bloated at times and definitely congested.	DD	LMUE demo unit	
+E=	AAW A2H Pro V1		Dark	Dead, bloated, congested. Feels like I have to strain to hear even surface-level detailing.	1BA 1DD	Jaben SG demo unit	
+E=	Fender Thirteen 6	1800	Dark	Instruments sound wrong. Everything is underwater. Help.	6BA 1DD	E1 demo unit	
+E=	Fischer Omega Spark	60	Bright	Someone should harvest their drivers for tweeters since I hear nothing below the upper mids.	DD	E1 demo unit	
+E=	Kinera H3	100	Extreme V-shape	Completely off timbre, extremely recessed midrange and sharp, painful treble.	2BA 1DD	Personal unit	
+E=	Nuforce HEM4	330	Warm	Dead as a doornail. Missing bits and pieces in its tuning.	2BA	Jaben SG demo unit	
+E=	Nuforce HEM6	450	Warm	Refer to the above.	3BA	Jaben SG demo unit	
+E=	RHA CL1	280	Bright	So much treble to the point where nothing sounds correct. Like raining metal balls on a tin roof.	DD	AV One demo unit	
+E=	Sendiy M1221	200	V-shaped	It literally sounds out of phase. It's an accomplishment in itself.	1BA 1DD	E1 demo unit	
+E=	Sensaphonics 2MAX	850	Bright neutral	Odd timbre. Technical ability isn't even that great.	2BA	Jaben Melbourne demo unit	
+E=	Sensaphonics 2X-S	750	Bright neutral	Sharp and shrill yet surprisingly dead. Like shoving blunted icepicks into your ears.	2BA	Jaben Melbourne demo unit	
+E=	Sensaphonics 3MAX	1050	Warm	It's a slight improvement over the 2MAX but not by much.	3BA	Jaben Melbourne demo unit	
+E=	Shozy x AAW Hibiki	60	Bright	Sharp, shrill tonality. Average everything else.	DD	Personal unit	
+E=	Shozy x AAW Pola	800	Dark	Dark, muffled, veiled, muddy, congested etc. etc. basically every permutation of similar descriptors.	2EST 1DD	Zeppelin & Co demo unit	
+E=	Unique Melody 3DD-Ti	700	Bright	It's not the quantity of the treble, but the quality. Reserved only for the most esoteric of tastes.	3DD	Stereo SG demo unit	
+E=	VE Monk IE Smalls		Dark	Sounds exactly like what would happen if you shoved an earbud driver into an IEM housing.	DD	Third party unit	
+F=	Delta Air complimentary earphones	0	Complete failure	It's a telephone in IEM form. It is physically unable to play bass or treble.	DD	Third party unit	
+F=	Oppo MH130	14	Complete failure	The horribleness of this can only be experienced in real life.	DD	Third party unit	
+F=	SIA complimentary earphones	0	Dark	Its full potential can only be unleashed by an Airbus A380.	DD	Personal unit	
+F=	VE Monk IE Biggie		Dark	Absolute mud and congestion. Could work as a subwoofer since it barely plays anything above 500Hz anyways.	DD	Third party unit
