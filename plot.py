@@ -5,10 +5,10 @@ import matplotlib.ticker as ticker
 import seaborn as sns
 sns.set()
 
-log_plot = False
+log_plot = True
 
 d = {}
-m = {'A+':13, 'A-':11, 'A=':12, 'B+':10, 'B-':8, 'B=':9, 'C+':7, 'C-':5, 'C=':6, 'D+':4, 'D-':2, 'D=':3, 'E=':1, 'F=':0, 'S-':14, 'S=':15}
+m = {'A+':13, 'A-':11, 'A':12, 'B+':10, 'B-':8, 'B':9, 'C+':7, 'C-':5, 'C':6, 'D+':4, 'D-':2, 'D':3, 'E':1, 'F':0, 'S-':14, 'S':15}
 colors = [
         'ff0000',
         'cc4125',
@@ -32,42 +32,51 @@ def hex2rgb(h):
     return list(float(int(h[i:i+2], 16))/255 for i in (0, 2, 4))
 
 colors = list(map(hex2rgb, colors))[::-1]
-print(colors)
 
 with open("raw.txt", 'r') as f:
     for i, line in enumerate(f):
         line = line.split('\t')
-        line[2] = int(line[2]) if line[2] != '' else np.nan
+        #print(i, line)
+        try:
+            line[3] = int(line[3])
+        except:
+            #print(i, line[:4], 'ERR!')
+            line[3] = np.nan
         line = [m[line[0]]] + line
         d[i] = line
     d[i] = line + ['\n']
 
 df = pd.DataFrame.from_dict(d, orient='index')
-df.columns = ['IntRank', 'Rank', 'Model', 'Price', 'Signature', 'Comments', 'Setup', 'Based on', 'SHR']
+df.columns = ['IntRank', 'Rank', 'Recommended', 'Model', 'Price', 'Signature', 'Comments', 'Tone Grade', 'Technical Grade', 'Setup', 'Based on', 'SHR']
+for i, row in df.iterrows():
+    print(row["Model"], row["Price"], row["Rank"])
 print(df.dtypes)
 sns.set(style='darkgrid')
 
 # df.to_csv('crinacle.csv')
+df = df[df['Price'].notna()]
 
 m_inv = {v:k for k,v in m.items()}
 f, axs = plt.subplots(figsize=(8, 6))
-f = sns.boxplot(x='Rank', y='Price', data=df, order=[m_inv[i] for i in range(len(m))], whis=0.8, palette=colors)
+f = sns.boxplot(x='Rank', y='Price', data=df, order=[m_inv[i] for i in range(len(m))], whis=1.5, palette=colors)
 
 if log_plot:
     f.set_yscale('log')
-    f.set_ylim(5, 10000)
+    f.set_ylim(0, 11000)
     yticks=np.array([10**i for i in range(1, 5)])
     f.set_yticks(yticks)
     f.set_yticklabels(yticks)
 else:
-    f.set_ylim(5, 5000)
+    f.set_ylim(0, 10000)
     f.yaxis.set_minor_locator(ticker.AutoMinorLocator())
     f.yaxis.set_tick_params(which='minor')
 
 sns.set(rc={"xtick.bottom" : True, "ytick.left" : True})
 f.yaxis.set_tick_params(which='minor', labelsize=5)
-f.xaxis.set_tick_params(which='major', labelsize=15, color=colors)
-[ii.set_color(colors[i]) for i, ii in enumerate(plt.gca().get_xticklabels())]
+f.yaxis.set_tick_params(which='major', labelsize=10)
+f.xaxis.set_tick_params(which='major', labelsize=15)
+for i, ii in enumerate(plt.gca().get_xticklabels()):
+    ii.set_color(colors[i])
 f.yaxis.set_minor_formatter(ticker.ScalarFormatter())
 f.grid(b=True, which='major', color='w', linewidth=1.0)
 f.grid(b=True, which='minor', color='w', linewidth=0.3)
@@ -89,7 +98,7 @@ for i,box_col in enumerate(colors):
         line.set_mec(box_col)
 
 
-# plt.show()
+#plt.show()
 plt.draw()
 plt.savefig("out.png", dpi=300)
 
